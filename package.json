@@ -1,0 +1,15 @@
+{
+  "name": "sys-info",
+  "version": "1.0.0",
+  "main": "index.js",
+  "module": "main.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "node ./demo/index.js"
+  },
+  "dependencies": {
+    "esm": "^3.2.25",
+    "go-npm": "^0.1.9",
+    "systeminformation": "^4.34.5"
+  }
+}
